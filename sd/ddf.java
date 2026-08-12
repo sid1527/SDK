@@ -1,0 +1,1 @@
+how to make (curl -v --cert b2b.crt --key b2b_privatekey.key) via java 21 curl request
